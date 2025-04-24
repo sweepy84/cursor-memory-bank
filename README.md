@@ -13,10 +13,10 @@ graph TD
     Modes --> CREATIVE["CREATIVE: Design"]
     Modes --> IMPLEMENT["IMPLEMENT: Building"]
     
-    style Main fill:#4da6ff,stroke:#0066cc,color:white
-    style Modes fill:#f8d486,stroke:#e8b84d
-    style Rules fill:#80ffaa,stroke:#4dbb5f
-    style Visual fill:#d9b3ff,stroke:#b366ff
+    style Main fill:#4da6ff,stroke:#0066cc,color:#000000
+    style Modes fill:#f8d486,stroke:#e8b84d,color:#000000
+    style Rules fill:#80ffaa,stroke:#4dbb5f,color:#000000
+    style Visual fill:#d9b3ff,stroke:#b366ff,color:#000000
 ```
 
 > **Development Status**: This system is actively under development. Features will be added and optimized over time. If you prefer stability over new features, you may continue using the previous version (v0.1-legacy), but please read about the architectural changes described in the [Memory Bank Upgrade Guide](memory_bank_upgrade_guide.md) to understand the benefits of this new approach.
@@ -222,10 +222,10 @@ graph LR
         Creative["creative-*.md<br>Design Decisions"]
     end
     
-    style Tasks fill:#f9d77e,stroke:#d9b95c,stroke-width:3px
-    style Active fill:#a8d5ff,stroke:#88b5e0
-    style Progress fill:#c5e8b7,stroke:#a5c897
-    style Creative fill:#f4b8c4,stroke:#d498a4
+    style Tasks fill:#f9d77e,stroke:#d9b95c,stroke-width:3px,color:#000000
+    style Active fill:#a8d5ff,stroke:#88b5e0,color:#000000
+    style Progress fill:#c5e8b7,stroke:#a5c897,color:#000000
+    style Creative fill:#f4b8c4,stroke:#d498a4,color:#000000
 ```
 
 - **tasks.md**: Central source of truth for task tracking

@@ -22,17 +22,17 @@ graph TD
         CM4 --> CM5["5: Decision Verification"]
     end
     
-    style CT1 fill:#f9d77e,stroke:#d9b95c
-    style CT2 fill:#f9d77e,stroke:#d9b95c
-    style CT3 fill:#f9d77e,stroke:#d9b95c
-    style CT4 fill:#f9d77e,stroke:#d9b95c
-    style CT5 fill:#f9d77e,stroke:#d9b95c
+    style CT1 fill:#f9d77e,stroke:#d9b95c,color:#000000
+    style CT2 fill:#f9d77e,stroke:#d9b5c,color:#000000
+    style CT3 fill:#f9d77e,stroke:#d9b5c,color:#000000
+    style CT4 fill:#f9d77e,stroke:#d9b5c,color:#000000
+    style CT5 fill:#f9d77e,stroke:#d9b5c,color:#000000
     
-    style CM1 fill:#a8d5ff,stroke:#88b5e0
-    style CM2 fill:#a8d5ff,stroke:#88b5e0
-    style CM3 fill:#a8d5ff,stroke:#88b5e0
-    style CM4 fill:#a8d5ff,stroke:#88b5e0
-    style CM5 fill:#a8d5ff,stroke:#88b5e0
+    style CM1 fill:#a8d5ff,stroke:#88b5e0,color:#000000
+    style CM2 fill:#a8d5ff,stroke:#88b5e0,color:#000000
+    style CM3 fill:#a8d5ff,stroke:#88b5e0,color:#000000
+    style CM4 fill:#a8d5ff,stroke:#88b5e0,color:#000000
+    style CM5 fill:#a8d5ff,stroke:#88b5e0,color:#000000
 ```
 
 ## Core Principles of Claude's "Think" Tool
